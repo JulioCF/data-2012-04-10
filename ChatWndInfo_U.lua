@@ -1,0 +1,2 @@
+CanDragWnd = 1
+
